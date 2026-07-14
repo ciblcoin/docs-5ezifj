@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ool0fs.indcuan.sbs/sitemap.xml
